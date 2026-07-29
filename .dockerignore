@@ -6,12 +6,9 @@ __pycache__/
 *.pyo
 
 .env
+.venv
+venv
 
-.venv/
-venv/
+.cache
 
-.cache/
-
-*.mp3
-*.gif
-*.webp
+langchain/
